@@ -12,3 +12,4 @@ Jitendra
 Ravi Master Branch
 master
 Samsung J8
+MI 4A Pro
